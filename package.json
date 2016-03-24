@@ -1,6 +1,6 @@
 {
   "name": "strip",
-  "version": "0.0.7",
+  "version": "1.0.0",
   "description": "Strip HTML Tags",
   "main": "index.js",
   "scripts": {
